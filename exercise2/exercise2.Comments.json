@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "64b46beb434405c198b097d2"
+  },
+  "comment_description": "Wow, looks like a nice walk",
+  "post_id": {
+    "$oid": "64b46ad8434405c198b097cf"
+  },
+  "user_id": {
+    "$oid": "64b46972434405c198b097cd"
+  }
+}]

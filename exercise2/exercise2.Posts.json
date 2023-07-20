@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64b46ad8434405c198b097cf"
+  },
+  "user_id": {
+    "$oid": "64b46972434405c198b097cb"
+  },
+  "description": "I went for a walk today!",
+  "image_path": "ethanspostimg.png",
+  "post_title": "My Walk"
+}]
